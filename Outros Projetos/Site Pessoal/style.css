@@ -1,0 +1,73 @@
+	body{
+		background: #dfe4ea;
+		max-width: 900px;
+		margin: auto;
+	}
+	.cabecalho {
+		margin: auto;
+		max-width: 50%;
+
+	}
+	.photo {
+		margin-right: auto;
+		margin-left: auto;
+		max-width: 50%;
+		margin: 10px;
+		border-radius: 100px;
+		border: 3px solid #909090;
+
+		
+	}
+
+	#title, .subtitle, .posttitle, .rodape {
+		color: black;
+		font-family: verdana;
+	}
+	#title {
+		font-size: 25px;
+	
+	}
+
+	a {
+		color:#70a1ff;
+		font-family: arial;
+		font-weight: bold;
+		text-decoration: none;
+	}
+
+	.posttitle {
+		font-size: 16px;
+		margin: 0;
+		margin-bottom: 15px;
+	}
+	.post{
+		background: #FFF;
+		padding: 10px;
+		border: 3px solid #909090;
+		border-radius: 25px 0 25px 0;
+		margin-bottom: 15px;
+	}
+	.postcontent {
+		margin: 0;
+		margin-bottom: 15px;
+		font-family: arial;
+		font-size: 18px;
+	}
+	.postimage {
+		margin-bottom: 15px;
+
+	}
+	.rodape {
+		
+	}
+	ul {
+		list-style-type: square;
+		font-size: 16px;
+	}
+	.rodape li a {
+		text-decoration: none;
+	}
+	.linkscontato {
+		font-family: arial;
+		font-weight: bold;
+	}
